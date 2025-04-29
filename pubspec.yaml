@@ -30,6 +30,7 @@ dependencies:
   meta: ^1.11.0
   typed_data: ^1.3.2
   async: ^2.11.0
+  permission_handler:
   behavior_api:
     git:
       url: https://github.com/nightmare-space/empty_package
