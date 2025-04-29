@@ -4,7 +4,8 @@ import 'package:get/get.dart';
 import 'package:global_repository/global_repository.dart';
 import 'package:settings/settings.dart';
 import 'package:vscode_for_android/terminal_page.dart';
-import 'behavior.dart';
+//import 'behavior.dart';
+import 'package:behavior_api/behavior_api.dart';
 import 'config.dart';
 
 
