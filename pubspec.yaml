@@ -18,6 +18,7 @@ dependencies:
   dio: ^4.0.0
   cupertino_icons: ^1.0.2
   get: ^4.6.5
+  permission_handler: ^10.2.0
   flutter_markdown: ^0.6.10+2
   xterm:
     git:
@@ -28,7 +29,7 @@ dependencies:
   flutter_pty:
     git: https://github.com/TerminalStudio/flutter_pty
   global_repository:
-    git: https://github.com/nightmare-space/global_repository
+    git: https://github.com/edeegg/global_repository
   path: ^1.8.0
   device_info_plus: 8.1.0
   meta: ^1.11.0
@@ -46,6 +47,5 @@ flutter:
     - assets/
 
 dependency_overrides:
-  permission_handler: ^10.2.0
-  global_repository:
-    path: ../global_repository
+  
+  
